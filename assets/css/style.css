@@ -65,7 +65,7 @@ footer a {
     color: #024e76;
 }
 section {
-    padding: 60px;
+    padding: 115px;
 }
 /* Hero Start style */
 .hero {
@@ -83,7 +83,6 @@ section {
     padding: 20px;
     width: 500px;
     color: #024e76;
-    ...
     border: solid 3px #024e76;
     position: absolute;
     bottom: 120px;
